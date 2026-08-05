@@ -1,6 +1,3 @@
-<!-- ========================================================= -->
-<!-- HERO BANNER -->
-<!-- ========================================================= -->
 
 <p align="center">
   <img src="images/banner.png" width="100%">
@@ -15,12 +12,8 @@ Transforming Retail Sales Data into Actionable Business Insights
 </h3>
 
 <p align="center">
-
 End-to-End Data Analytics Project using Excel, SQL, Python, Machine Learning & Power BI
-
 </p>
-
----
 
 <p align="center">
 
@@ -34,41 +27,15 @@ End-to-End Data Analytics Project using Excel, SQL, Python, Machine Learning & P
 
 </p>
 
+
 ---
+# 🚀 About This Project
 
-# 🛠 Technology Badges
+Retail businesses generate thousands of sales transactions every day, producing valuable data related to customers, products, profits, shipping, and regional performance. Without proper analysis, organizations miss opportunities to optimize sales, improve profitability, and make informed business decisions. This project provides an end-to-end retail analytics solution that analyzes historical sales data, uncovers key business trends, forecasts future sales, and delivers actionable insights through interactive Power BI dashboards.
 
-<p align="center">
+This repository demonstrates the complete data analytics lifecycle—from data collection, cleaning, and SQL-based business analysis to Python exploratory data analysis, sales forecasting, and Power BI dashboard development. It showcases practical business problem-solving using industry-standard tools and technologies to support data-driven decision-making.
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/DAX-E6B800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
+> ⭐ **Recruiter Note:** This project demonstrates proficiency in SQL, Python, Power BI, Machine Learning, Sales Forecasting, Data Visualization, and Business Analytics while following a real-world end-to-end data analytics workflow.
 
 ---
 
@@ -176,6 +143,42 @@ This project addresses these challenges by building a comprehensive Business Int
 | Data Transformation | Power Query |
 | Data Modeling | DAX |
 | Version Control | Git & GitHub |
+
+---
+
+# 🛠 Technology Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-E6B800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 ---
 
