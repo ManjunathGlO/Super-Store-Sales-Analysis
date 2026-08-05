@@ -1,4 +1,4 @@
-<p align="center">
+m<p align="center">
   <img src="images/banner.png" width="100%">
 </p>
 
@@ -2010,7 +2010,8 @@ This project demonstrates readiness for roles such as:
 
 <p align="center">
 
-<img src="images/profile.png" width="180" style="border-radius:50%;">
+<img width="1354" height="1162" alt="bg_im" src="https://github.com/user-attachments/assets/1fb1a67d-5f3b-42b8-952d-60e6f2ec66ea" />
+
 
 </p>
 
