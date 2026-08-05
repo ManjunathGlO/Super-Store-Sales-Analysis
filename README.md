@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="images/banner.png" width="100%">
 </p>
@@ -667,13 +666,16 @@ A **15-Day Sales Forecast Dashboard** was developed to estimate future sales per
 
 ## 📷 Forecast Dashboard
 
-```markdown
-![Forecast Dashboard](Dashboard/Forecast_Dashboard.png)
-```
+
+<img width="1327" height="742" alt="Sales_Forecast" src="https://github.com/user-attachments/assets/7c27ab3b-1058-4d59-aeca-836b27bc47d5" />
+
 
 ---
 
 # 📊 Power BI Dashboard
+
+
+<img width="1322" height="745" alt="Super_Store_Sales_Dashboard" src="https://github.com/user-attachments/assets/61f9cac3-e5b5-42f4-822e-23d4225a45a2" />
 
 An interactive Power BI dashboard was created to monitor retail performance and support executive decision-making through dynamic visualizations.
 
@@ -705,9 +707,8 @@ The dashboard provides executives with an instant overview of key business metri
 
 ## 📷 KPI Dashboard
 
-```markdown
-![Sales Dashboard](Dashboard/Sales_Dashboard.png)
-```
+<img width="727" height="117" alt="KPIs Card" src="https://github.com/user-attachments/assets/d86e324f-a62e-4522-b929-8a7fc6baa9c5" />
+
 
 ---
 
@@ -719,11 +720,15 @@ The dashboard includes the following interactive reports:
 
 Shows customer payment preferences across Online, Cards, and COD.
 
+<img width="286" height="192" alt="Payment Mode" src="https://github.com/user-attachments/assets/8a484eb7-3c86-4825-86a8-b37ff8c98a2d" />
+
 ---
 
 ### 📌 Sales by Region
 
 Compares sales across Central, East, South, and West regions.
+
+<img width="290" height="242" alt="Sales Region" src="https://github.com/user-attachments/assets/4fe0b47d-01ea-4054-abf5-70bd7b24f937" />
 
 ---
 
@@ -731,11 +736,16 @@ Compares sales across Central, East, South, and West regions.
 
 Analyzes Consumer, Corporate, and Home Office sales contribution.
 
+<img width="287" height="225" alt="Sales by Segment" src="https://github.com/user-attachments/assets/2598fc02-3c62-49bf-9f63-fb1cad5feab6" />
+
+
 ---
 
 ### 📌 Monthly Sales Trend
 
 Visualizes year-over-year monthly sales performance.
+
+<img width="475" height="252" alt="Sales by YoY" src="https://github.com/user-attachments/assets/cbad9f25-ca21-4a60-8616-e68238c2078d" />
 
 ---
 
@@ -743,11 +753,15 @@ Visualizes year-over-year monthly sales performance.
 
 Displays monthly profit growth and seasonal fluctuations.
 
+<img width="466" height="277" alt="Sales by Profit YoY" src="https://github.com/user-attachments/assets/571bbb8d-6c31-46bd-8aad-e67a19e33b5c" />
+
 ---
 
 ### 📌 Sales by Ship Mode
 
 Compares Standard Class, Second Class, First Class, and Same Day shipping.
+
+<img width="260" height="255" alt="Ship Mode" src="https://github.com/user-attachments/assets/5128fdde-1d3e-4f9c-b05f-a1cb4735f569" />
 
 ---
 
@@ -755,11 +769,15 @@ Compares Standard Class, Second Class, First Class, and Same Day shipping.
 
 Highlights performance of Furniture, Office Supplies, and Technology.
 
+<img width="260" height="277" alt="Sales By Category" src="https://github.com/user-attachments/assets/96c95c31-4ca9-4ac9-92bf-1bca97516438" />
+
 ---
 
 ### 📌 Sales by Sub-Category
 
 Identifies top-selling products such as Phones, Chairs, and Binders.
+
+<img width="292" height="280" alt="Sales By Sub Category" src="https://github.com/user-attachments/assets/a0019e22-9636-4eb2-a3b7-141bc37f8c06" />
 
 ---
 
@@ -767,11 +785,15 @@ Identifies top-selling products such as Phones, Chairs, and Binders.
 
 Interactive map displaying geographic sales and profit distribution.
 
+<img width="295" height="457" alt="Profit and Sales by State" src="https://github.com/user-attachments/assets/7d2baf7b-59b3-476d-91c2-e44115b94820" />
+
 ---
 
 ### 📌 15-Day Sales Forecast
 
 Forecasts future sales using historical transaction data.
+
+<img width="1327" height="742" alt="Sales_Forecast" src="https://github.com/user-attachments/assets/2bce73e9-e70e-445f-822c-f1b42359e915" />
 
 ---
 
