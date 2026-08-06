@@ -1122,25 +1122,111 @@ pip install -r requirements.txt
 
 ## 📊 Sales Dashboard
 
-```markdown
-![Sales Dashboard](Dashboard/Sales_Dashboard.png)
-```
+
+<img width="1322" height="745" alt="Super_Store_Sales_Dashboard" src="https://github.com/user-attachments/assets/80629490-e1da-47d9-8378-841943de1bce" />
 
 ---
 
 ## 📈 Sales Forecast Dashboard
 
-```markdown
-![Forecast Dashboard](Dashboard/Forecast_Dashboard.png)
-```
+<img width="1327" height="742" alt="Sales_Forecast" src="https://github.com/user-attachments/assets/1edc9d94-ec4a-4a96-8bc0-3c4a01cafa86" />
+
 
 ---
 
 ## 🗄 SQL Analysis
 
-```markdown
-![SQL Analysis](Images/sql-analysis.png)
+### 1️⃣ Dataset Preview ⭐
+
+Shown the first few rows of your table.
+```sql
+SELECT *
+FROM superstore
+LIMIT 10;
 ```
+<img width="1500" height="342" alt="top 10" src="https://github.com/user-attachments/assets/b49bafcb-009d-4d6c-bfb8-a4e3929c64f5" />
+
+### 2️⃣ Data Cleaning / Validation ⭐
+
+Checked for duplicates or missing values.
+```sql
+SELECT
+Order_ID,
+COUNT(*)
+FROM superstore
+GROUP BY Order_ID
+HAVING COUNT(*) > 1;
+```
+<img width="570" height="220" alt="Final Data Validation" src="https://github.com/user-attachments/assets/0baa67fd-9f2c-419e-82be-6ad7e5a17b69" />
+
+### 3️⃣ Sales by Region ⭐⭐⭐
+```sql
+SELECT
+Region,
+ROUND(SUM(Sales),2) AS Total_Sales
+FROM superstore
+GROUP BY Region
+ORDER BY Total_Sales DESC;
+```
+<img width="237" height="145" alt="Region sales states" src="https://github.com/user-attachments/assets/6c2c9892-fefa-44c7-a3ad-549f5ba55306" />
+
+### 4️⃣ Sales by Category ⭐⭐⭐
+```sql
+SELECT
+Category,
+ROUND(SUM(Sales),2) AS Total_Sales
+FROM superstore
+GROUP BY Category
+ORDER BY Total_Sales DESC;
+```
+<img width="236" height="122" alt="Sales by category" src="https://github.com/user-attachments/assets/afc58e82-0437-45b2-9280-b5edec51f7ed" />
+
+### 5️⃣ Top 10 Products ⭐⭐⭐
+```sql
+SELECT
+Product_Name,
+SUM(Sales) AS Sales
+FROM superstore
+GROUP BY Product_Name
+ORDER BY Sales DESC
+LIMIT 10;
+```
+<img width="427" height="337" alt="top ten product" src="https://github.com/user-attachments/assets/91d926cd-361a-42c7-affe-c929c3990a55" />
+
+### 6️⃣ Profit by State ⭐⭐⭐
+
+```sql
+SELECT
+State,
+ROUND(SUM(Profit),2) AS Profit
+FROM superstore
+GROUP BY State
+ORDER BY Profit DESC;
+```
+<img width="212" height="333" alt="Profit by state" src="https://github.com/user-attachments/assets/87d935d9-3ba7-4a4a-a40a-b08528d52eb3" />
+
+### 7️⃣ Monthly Sales Trend ⭐⭐⭐
+```sql
+SELECT
+YEAR(Order_Date) AS Year,
+MONTHNAME(Order_Date) AS Month,
+ROUND(SUM(Sales),2) AS Sales
+FROM superstore
+GROUP BY YEAR(Order_Date), MONTH(Order_Date)
+ORDER BY YEAR(Order_Date), MONTH(Order_Date);
+```
+<img width="372" height="92" alt="Monthly Sale" src="https://github.com/user-attachments/assets/ab066423-eb63-4f1b-aa2b-2d435e163c85" />
+
+### 8️⃣ Customer Segment Analysis ⭐⭐
+```sql
+SELECT
+Segment,
+ROUND(SUM(Sales),2) AS Sales
+FROM superstore
+GROUP BY Segment;
+```
+<img width="242" height="140" alt="Customer Segment Analysis" src="https://github.com/user-attachments/assets/ae6c6dd1-69fb-42fd-96d9-f2a92c3d2a18" />
+
 
 ---
 
@@ -1162,17 +1248,15 @@ pip install -r requirements.txt
 
 ## 📍 Sales & Profit by State
 
-```markdown
-![Sales by State](Images/state-map.png)
-```
+<img width="1322" height="745" alt="Super_Store_Sales_Dashboard" src="https://github.com/user-attachments/assets/60d6af8a-b611-44b6-87c8-51bd47b2f711" />
+<img width="295" height="457" alt="Profit and Sales by State" src="https://github.com/user-attachments/assets/8cf2e63e-ec01-411f-a638-bab22297213b" />
+
 
 ---
 
 ## 📦 Sales by Category
 
-```markdown
-![Sales by Category](Images/category-analysis.png)
-```
+<img width="260" height="277" alt="Sales By Category" src="https://github.com/user-attachments/assets/5b1883d3-9130-4532-a91a-582580d70ee3" />
 
 ---
 
