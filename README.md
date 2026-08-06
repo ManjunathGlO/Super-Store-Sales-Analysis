@@ -1244,15 +1244,14 @@ GROUP BY Segment;
 
 ## 📉 Sales Forecast Visualization
 
-```markdown
-![Sales Forecast](Images/sales-forecast.png)
-```
+<img width="1327" height="742" alt="Sales_Forecast" src="https://github.com/user-attachments/assets/15083404-b866-4872-8dfb-d38dec8f0dc8" />
+
 
 ---
 
 ## 📍 Sales & Profit by State
 
-<img width="1322" height="745" alt="Super_Store_Sales_Dashboard" src="https://github.com/user-attachments/assets/60d6af8a-b611-44b6-87c8-51bd47b2f711" />
+
 <img width="295" height="457" alt="Profit and Sales by State" src="https://github.com/user-attachments/assets/8cf2e63e-ec01-411f-a638-bab22297213b" />
 
 
@@ -1266,9 +1265,9 @@ GROUP BY Segment;
 
 ## 📊 Monthly Sales & Profit Trends
 
-```markdown
-![Monthly Trends](Images/monthly-trends.png)
-```
+<img width="475" height="252" alt="Sales by YoY" src="https://github.com/user-attachments/assets/d58c7184-e19a-4b15-9c85-df0101d5d54f" />
+<img width="466" height="277" alt="Sales by Profit YoY" src="https://github.com/user-attachments/assets/c240b0cc-9f15-43a6-93f8-886bc6f665c9" />
+
 
 ---
 # 🐍 Python Code Highlights
@@ -1412,7 +1411,24 @@ print(mae)
 
 ✔ Model Evaluation
 
+<img width="1097" height="392" alt="Screenshot 2026-08-01 170036" src="https://github.com/user-attachments/assets/fb0197c3-8a52-4ce1-ad67-24a83d4b54a1" />
+
 ---
+<img width="177" height="452" alt="null" src="https://github.com/user-attachments/assets/c121452e-0db1-4624-bebe-bfab165ab027" />
+
+---
+<img width="705" height="552" alt="Sales by Category" src="https://github.com/user-attachments/assets/8f568d7c-7d27-46da-9e22-489b9954d0ec" />
+
+---
+
+<img width="865" height="687" alt="Screenshot 2026-08-01 171130" src="https://github.com/user-attachments/assets/ab6bfeab-7982-427f-b943-dc513fc9c8e7" />
+
+---
+
+<img width="697" height="582" alt="Screenshot 2026-08-01 171251" src="https://github.com/user-attachments/assets/001d26d0-e2a4-4cfc-b856-1621235056fe" />
+
+---
+
 
 # 🗄 SQL Query Highlights
 
