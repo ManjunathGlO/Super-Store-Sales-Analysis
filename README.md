@@ -627,6 +627,9 @@ Forecast Evaluation
 - Root Mean Squared Error (RMSE)
 - Prediction Accuracy
 
+<img width="521" height="175" alt="Model Evalution" src="https://github.com/user-attachments/assets/8b048b64-e0de-4ee3-94b9-02c1b8f9511d" />
+
+
 ---
 
 ## 💼 Business Value
@@ -1230,15 +1233,6 @@ FROM superstore
 GROUP BY Segment;
 ```
 <img width="242" height="140" alt="Customer Segment Analysis" src="https://github.com/user-attachments/assets/ae6c6dd1-69fb-42fd-96d9-f2a92c3d2a18" />
-
-
----
-
-## 🐍 Python Exploratory Data Analysis
-
-```markdown
-![Python EDA](Images/python-eda.png)
-```
 
 ---
 
@@ -2114,9 +2108,6 @@ This project demonstrates readiness for roles such as:
 
 <p align="center">
 
-<img width="1354" height="1162" alt="bg_im" src="https://github.com/user-attachments/assets/1fb1a67d-5f3b-42b8-952d-60e6f2ec66ea" />
-
-
 </p>
 
 <h2 align="center">Manjunath G L</h2>
@@ -2180,20 +2171,6 @@ Feel free to connect with me.
 | 💼 LinkedIn | https://linkedin.com/in/your-linkedin |
 | 💻 GitHub | https://github.com/yourusername |
 | 🌐 Portfolio | https://yourportfolio.com |
-
-> **Replace the placeholder links above with your actual email, LinkedIn, GitHub, and portfolio URL.**
-
----
-
-# 🏆 Certifications
-
-- 🎓 Microsoft Power BI
-- 🐍 Python for Data Analysis
-- 🗄 SQL for Data Analytics
-- 📊 Microsoft Excel
-- 🤖 Machine Learning Fundamentals
-
-*(Update this section with your actual certifications.)*
 
 ---
 
