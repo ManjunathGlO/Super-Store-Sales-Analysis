@@ -1157,7 +1157,11 @@ FROM superstore
 GROUP BY Order_ID
 HAVING COUNT(*) > 1;
 ```
-<img width="570" height="220" alt="Final Data Validation" src="https://github.com/user-attachments/assets/0baa67fd-9f2c-419e-82be-6ad7e5a17b69" />
+<img width="235" height="220" alt="colum duplicate" src="https://github.com/user-attachments/assets/fbd0caed-a1eb-4e86-ac43-03380a860f8f" />
+
+<img width="1485" height="217" alt="Check Missing Customer IDs" src="https://github.com/user-attachments/assets/79801b1e-0cc8-4064-8b68-c4546235e471" />
+
+
 
 ### 3️⃣ Sales by Region ⭐⭐⭐
 ```sql
