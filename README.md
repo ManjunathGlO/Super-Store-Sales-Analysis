@@ -28,7 +28,7 @@ End-to-End Data Analytics Project using Excel, SQL, Python, Machine Learning & P
 
 </p>
 
-
+<h3 align="center"><a href="https://drive.google.com/file/d/17P9Dt9lwJFobzNeJ658SlTha-TQHd1CR/view?usp=sharing"><strong>Want to see live preview »</strong></a></h3>
 ---
 # 🚀 About This Project
 
