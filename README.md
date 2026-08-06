@@ -629,6 +629,8 @@ Forecast Evaluation
 
 <img width="521" height="175" alt="Model Evalution" src="https://github.com/user-attachments/assets/8b048b64-e0de-4ee3-94b9-02c1b8f9511d" />
 
+<img width="282" height="391" alt="Feature Importance" src="https://github.com/user-attachments/assets/e83dab30-bbe5-4f17-af1f-92633fa25931" />
+
 
 ---
 
