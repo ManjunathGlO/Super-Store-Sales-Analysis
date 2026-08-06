@@ -29,7 +29,9 @@ End-to-End Data Analytics Project using Excel, SQL, Python, Machine Learning & P
 </p>
 
 <h3 align="center"><a href="https://drive.google.com/file/d/17P9Dt9lwJFobzNeJ658SlTha-TQHd1CR/view?usp=sharing"><strong>Want to see live preview »</strong></a></h3>
+
 ---
+
 # 🚀 About This Project
 
 Retail businesses generate thousands of sales transactions every day, producing valuable data related to customers, products, profits, shipping, and regional performance. Without proper analysis, organizations miss opportunities to optimize sales, improve profitability, and make informed business decisions. This project provides an end-to-end retail analytics solution that analyzes historical sales data, uncovers key business trends, forecasts future sales, and delivers actionable insights through interactive Power BI dashboards.
