@@ -1,5 +1,7 @@
-m<p align="center">
-  <img src="images/banner.png" width="100%">
+<p align="center">
+  
+<img width="1322" height="745" alt="Super_Store_Sales_Dashboard" src="https://github.com/user-attachments/assets/80e42a0f-6bfe-4f92-82fd-5dee1bd9d057" />
+
 </p>
 
 <h1 align="center">
@@ -629,6 +631,7 @@ Forecast Evaluation
 
 <img width="521" height="175" alt="Model Evalution" src="https://github.com/user-attachments/assets/8b048b64-e0de-4ee3-94b9-02c1b8f9511d" />
 
+---
 <img width="282" height="391" alt="Feature Importance" src="https://github.com/user-attachments/assets/e83dab30-bbe5-4f17-af1f-92633fa25931" />
 
 
